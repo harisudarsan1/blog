@@ -1,6 +1,6 @@
 baseURL = 'https://hari.github.io/blog/'
 languageCode = 'en-us'
-title = 'Hari\'s Blog'
+title = "Hari's Blog"
 theme = 'PaperMod'
 
 [params]
