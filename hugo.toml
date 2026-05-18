@@ -17,7 +17,7 @@ theme = 'PaperMod'
 
 [[params.socialIcons]]
   name = "github"
-  url = "https://github.com/hari"
+  url = "https://github.com/harisudarsan1"
 
 [outputs]
   home = ['HTML', 'RSS', 'JSON']
