@@ -2,6 +2,7 @@ baseURL = 'https://harisudarsan1.github.io/blog/'
 languageCode = 'en-us'
 title = "Hari's Blog"
 theme = 'PaperMod'
+canonifyURLs = true
 
 [params]
   env = 'production'
