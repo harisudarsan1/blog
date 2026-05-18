@@ -1,0 +1,26 @@
+baseURL = 'https://hari.github.io/blog/'
+languageCode = 'en-us'
+title = 'Hari\'s Blog'
+theme = 'PaperMod'
+
+[params]
+  env = 'production'
+  description = 'Personal blog'
+  defaultTheme = 'auto'
+  showCodeCopyButtons = true
+  showReadingTime = true
+  showToc = true
+
+[params.homeInfoParams]
+  Title = "Hari's Blog"
+  Content = "Thoughts on code, learning, and everything in between."
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/hari"
+
+[outputs]
+  home = ['HTML', 'RSS', 'JSON']
+
+[markup.goldmark.renderer]
+  unsafe = true
