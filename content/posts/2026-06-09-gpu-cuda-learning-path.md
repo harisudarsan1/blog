@@ -1,10 +1,9 @@
----
-title: "GPU, CUDA, and the Ecosystem: A Progressive Learning Path"
-date: 2026-06-09T00:00:00Z
-draft: false
-tags: ["gpu", "cuda", "learning", "system-design"]
-showToc: true
----
++++
+title = "GPU, CUDA, and the Ecosystem A Progressive Learning Path"
+author = ["Harisudarsan"]
+tags = ["gpu", "cuda", "learning", "system-design"]
+draft = false
++++
 
 ## Tier 1: GPU Architecture (deep understanding)
 
